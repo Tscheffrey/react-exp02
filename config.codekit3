@@ -15,6 +15,24 @@
 		"oAP": "\/build\/build",
 		"oF": 0
 		},
+	"\/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/build\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/src\/css\/style.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -265,10 +283,10 @@
 	},
 "projectAttributes": {
 	"creationDate": 539174700,
-	"displayValue": "react-exp2",
+	"displayValue": "react-exp02",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-punDog",
-	"lastBuiltDate": 539251458
+	"lastBuiltDate": 539282308
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
